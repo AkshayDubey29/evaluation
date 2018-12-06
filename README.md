@@ -2,7 +2,7 @@
 
 To pull the image and run please follow below steps:-
 
-#Pre-requisite:-
+# Pre-requisite:-
 
 1. you need to have docker running on your machine.
 2. Application will expect to have the mysql database running and serving on port 3306. (For this particular repostory we have configured the port and service within the K8s cluster).
@@ -16,6 +16,6 @@ To pull the image and run please follow below steps:-
 
 
 
-#Contact:-
+# Contact:-
 
 XebiaLabs
